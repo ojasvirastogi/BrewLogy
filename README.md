@@ -1,6 +1,6 @@
 # ☕ Brewlogy — Coffee React Web Interface
 
-**Brewlogy** is a responsive, aesthetically pleasing coffee shop interface developed using **React 19**, **Vite**, **Tailwind CSS**, and **Material UI Icons**. The project includes modular components such as a hero section, navigation bar, and product cards — perfect for a modern eCommerce landing page or startup showcase.
+**Brewlogy** is a responsive, aesthetically pleasing coffee shop interface developed using React 19, Vite, Tailwind CSS, and Material UI Icons. The project includes modular components such as a hero section, navigation bar, and reviews section ,about section — perfect for a modern eCommerce landing page or startup showcase.
 
 ---
 
